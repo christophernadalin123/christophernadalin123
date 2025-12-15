@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou Christopher
 
-<!--
-**christophernadalin123/christophernadalin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Experiência em projetos acadêmicos e pessoais com Java, Python e SQL
+- 🌱 Atualmente aprendendo sobre desenvolvimento web com React e Node.js
+- 🎯 Objetivo: atuar como desenvolvedora júnior em empresas de tecnologia
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Linguagens: Java, Python, JavaScript
+- Banco de Dados: MySQL, PostgreSQL
+- Ferramentas: Git, VS Code, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- Email: chriatoher.nadalin@escola.pr.gov.br
+- GitHub: [github.com/christophernadalin123]
